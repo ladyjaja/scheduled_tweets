@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+**GIT Commands**
+git status
+git config --global --list
+git remote -v
+git config --global user.name "ladyjaja" 
+git config --global user.email "persistintelligence@gmail.com";
+git add .
+git commit -m "Initial commit"
+git push -u origin main
